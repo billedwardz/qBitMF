@@ -26,7 +26,7 @@ Now that we have a collection of config files, we need to configure docker to us
 Grab this git repo, making sure to include the dependency submodules:
 
 ```
-git clone --recurse-submodules https://github.com/qBitMF/qBitMF.git
+git clone --recurse-submodules https://github.com/billedwardz/qBitMF.git
 ```
 
 This repository contains a `docker-compose.yml` file - using it, or basing your docker-compose file on its contents, is recommended.
